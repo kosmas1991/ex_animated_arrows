@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # animated_arrows
 
 A new Flutter application.
